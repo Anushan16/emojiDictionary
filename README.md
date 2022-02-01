@@ -1,0 +1,1 @@
+A application that mimicks a dictionary for Emoji's. I used this project to learn new ES6 features such as forEach and arrow functions. Currently data is being rendered from a JS fil;e, returned in object format. However, in the future I would like to connect to a API to retrieve realtime info and turn this into a full stack application
